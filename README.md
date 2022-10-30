@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ganesha V S
 - 👀 I’m interested in domain-specific architectures, System-On-Chip design and the next-gen architectures.
-- 🌱 I’m currently doing my Master's in Electrical and Computer Engineering at Purdue University.
-- 💞
+- 🌱 I’m currently pursing my Master's in Electrical and Computer Engineering at Purdue University.
 - 📫 How to reach me ...
 
 <!---
